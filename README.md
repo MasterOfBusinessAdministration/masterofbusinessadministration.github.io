@@ -27,7 +27,7 @@ MBA Community Talks
 			</td>
 		</tr>
 		<tr>
-			<td><img alt="Book Cover" src="https://github.com/tayyebi/devops-book/raw/main/cover.png" style="height:141px; width:100px" /></td>
+			<td><a href="https://tayyebi.github.io/devops-book/"><img alt="Book Cover" src="https://github.com/tayyebi/devops-book/raw/main/cover.png" style="height:141px; width:100px" /></a></td>
 		</tr>
 	</tbody>
 </table>

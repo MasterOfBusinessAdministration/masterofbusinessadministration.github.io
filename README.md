@@ -18,6 +18,12 @@ MBA Community Talks
 <table>
 	<tbody>
 		<tr>
+			<td><img alt="Amir Mohammad Yektaei profile photo" src="https://media.licdn.com/dms/image/C4E03AQEpNt4KkJgN6w/profile-displayphoto-shrink_200_200/0/1659798203848?e=1678924800&v=beta&t=7YXhWhnf5sGNYLVZVRa2_5R996lRO9mpd1r0h7BUcks" style="width:100px" /></td>
+			<td><a href="https://www.linkedin.com/in/amirmohammadyektaei/">Amir Mohammad Yektaei</a></td>
+			<td>MBA</td>
+			<td>Cyber Security Analyst.</td>
+		</tr>
+		<tr>
 			<td><img alt="Mohammad Reza Moghimi Bidhandi Profile photo" src="https://media.licdn.com/dms/image/D4E03AQHyHs7CkE-SVA/profile-displayphoto-shrink_200_200/0/1669303410711?e=1678924800&v=beta&t=YPRgIZ4nNI6KS-lz0YQameMH-mmQ2iFu1C_M4uqrU4g" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/mreza-moghimi/">Mohammad Reza Moghimi Bidhandi</a></td>
 			<td>MBA</td>

@@ -18,6 +18,12 @@ MBA Community Talks
 <table>
 	<tbody>
 		<tr>
+			<td><img alt="Mohammad Reza Moghimi Bidhandi Profile photo" src="https://media.licdn.com/dms/image/D4E03AQHyHs7CkE-SVA/profile-displayphoto-shrink_200_200/0/1669303410711?e=1678924800&v=beta&t=YPRgIZ4nNI6KS-lz0YQameMH-mmQ2iFu1C_M4uqrU4g" style="width:100px" /></td>
+			<td><a href="https://www.linkedin.com/in/mreza-moghimi/">Mohammad Reza Moghimi Bidhandi</a></td>
+			<td>MBA</td>
+			<td>Creative Marketing Professional with Industrial Design Background.</td>
+		</tr>
+		<tr>
 			<td><img alt="Salar Hosseinali Profile photo" src="https://media.licdn.com/dms/image/C5603AQF2naTwFDOq4Q/profile-displayphoto-shrink_200_200/0/1516650400949?e=1678924800&v=beta&t=002ro2iWsghZR2jUZGeJljrsh9RQ0s_ryd12W_D5tjM" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/salar-hosseinali/">Salar Hosseinali</a></td>
 			<td>MBA</td>

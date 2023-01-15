@@ -18,6 +18,12 @@ MBA Community Talks
 <table>
 	<tbody>
 		<tr>
+			<td><img alt="Guilana Hakemi profile photo" src="https://media.licdn.com/dms/image/C4E03AQHW2q7WEQjYGQ/profile-displayphoto-shrink_200_200/0/1614435421916?e=1679529600&v=beta&t=cbeNsVIRBWfJj6HGekay1aiLdec2u3h9yCK5WzpsDdk" style="width:100px" /></td>
+			<td><a href="https://www.linkedin.com/in/guilana-hakemi">Guilana Hakemi</a></td>
+			<td><b>MBA</b></td>
+			<td>Social Media Marketing Specialist.</td>
+		</tr>
+		<tr>
 			<td><img alt="Elahe Rezvani profile photo" src="https://media.licdn.com/dms/image/C4E03AQE5N69QvtpdGA/profile-displayphoto-shrink_200_200/0/1612013769230?e=1678924800&v=beta&t=ixdD3NZbqmwcC9G0C2JJQQT7HgHBn33hlyGelbOfbIs" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/elahe-rezvani-841956a9/">Elahe Rezvani</a></td>
 			<td><b>MBA</b></td>

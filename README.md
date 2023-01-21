@@ -17,6 +17,13 @@ MBA Community Talks
 ## People
 <table>
 	<tbody>
+		
+		<tr>
+			<td><img alt="Atiye Hosseini profile photo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width:100px" /></td>
+			<td><a href="https://www.linkedin.com/in/atiye-hosseini-876b46230/">Atiye Hosseini</a></td>
+			<td><b>MBA</b></td>
+			<td>Fashion Commerce Expert.</td>
+		</tr>
 		<tr>
 			<td><img alt="Guilana Hakemi profile photo" src="https://media.licdn.com/dms/image/C4E03AQHW2q7WEQjYGQ/profile-displayphoto-shrink_200_200/0/1614435421916?e=1679529600&v=beta&t=cbeNsVIRBWfJj6HGekay1aiLdec2u3h9yCK5WzpsDdk" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/guilana-hakemi">Guilana Hakemi</a></td>

@@ -17,9 +17,8 @@ MBA Community Talks
 ## People
 <table>
 	<tbody>
-		
 		<tr>
-			<td><img alt="Atiye Hosseini profile photo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width:100px" /></td>
+			<td><img alt="Atiye Hosseini profile photo" src="https://github.com/MasterOfBusinessAdministration/mbatalks/raw/main/logo.svg" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/atiye-hosseini-876b46230/">Atiye Hosseini</a></td>
 			<td><b>MBA</b></td>
 			<td>Fashion Commerce Expert.</td>

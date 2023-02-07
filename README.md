@@ -1,6 +1,6 @@
-<p align="center"><img src="https://github.com/MasterOfBusinessAdministration/mbatalks/raw/main/logo.svg" alt="MBA Community Talks Logo" style="width:200px;"/></p>
+<p align="center"><img src="https://github.com/MasterOfBusinessAdministration/mbatalks/raw/main/logo.svg" alt="MBA Talks Logo" style="width:200px;"/></p>
 
-MBA Community Talks
+MBA Talks | The Community of MBA Talents
 ===
 
 ## Websites
@@ -10,6 +10,11 @@ MBA Community Talks
 			<td><img alt="0pt_ir logo" src="https://0pt.ir/wp-content/uploads/2022/12/logo.png" style="max-height:70px" /></td>
 			<td><a href="https://0pt.ir">0pt.ir</a></td>
 			<td>Business optimization solutions, consultant, and coaching from top industry experts.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center"><img alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" style="max-height:50px" /></td>
+			<td><a href="https://t.me/mba_talks">@mba_talks</a></td>
+			<td>MBA Talks News and Chatroom.</td>
 		</tr>
 	</tbody>
 </table>

@@ -23,10 +23,16 @@ MBA Talks | The Community of MBA Talents
 <table>
 	<tbody>
 		<tr>
+			<td><img alt="Maral Alizadeh profile photo" src="https://media.licdn.com/dms/image/D4E03AQHizEkv9tZ1rQ/profile-displayphoto-shrink_200_200/0/1675873775591?e=1681344000&v=beta&t=yekL8ZUC0GyVE6jhJkehnS_lBvxKO6plZbOlKF-zgwY" style="width:100px" /></td>
+			<td><a href="https://www.linkedin.com/in/navid-mehdizadeh-4734076b/">Maral Alizadeh</a></td>
+			<td><b>MBA</b></td>
+			<td>Architect.</td>
+		</tr>
+		<tr>
 			<td><img alt="Navid Mehdizadeh profile photo" src="https://media.licdn.com/dms/image/C5603AQFKfwYrNr5j4g/profile-displayphoto-shrink_200_200/0/1517472870951?e=1681344000&v=beta&t=6FBq4Xv3rrscRGcV0A-d2y9hLuVa7vvRjP9TfZBVbMg" style="width:100px" /></td>
 			<td><a href="https://www.linkedin.com/in/navid-mehdizadeh-4734076b/">Navid Mehdizadeh</a></td>
 			<td><b>MBA</b></td>
-			<td>Executive Management in Construction Industry</td>
+			<td>Executive Management in Construction Industry.</td>
 		</tr>
 		<tr>
 			<td><img alt="Atiye Hosseini profile photo" src="https://media.licdn.com/dms/image/D4E03AQHvC5nCBNvDEA/profile-displayphoto-shrink_200_200/0/1675366176498?e=1681344000&v=beta&t=uBsNcYPWTUw1Mpqxd1Au4RtVHDqe_GV8-spYcvA2j3s" style="width:100px" /></td>

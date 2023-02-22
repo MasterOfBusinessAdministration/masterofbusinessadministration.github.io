@@ -3,6 +3,8 @@
 MBA Talks | The Community of MBA Talents
 ===
 
+<a href="blog" title="Gain Insights from talents for free!"><img src="banner.jpg" style="width:100%" alt="MBA Talents Community Talks Blog" /></a>
+
 ## Websites
 <table summary="Recommended Websites">
 	<tbody>

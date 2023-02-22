@@ -32,7 +32,7 @@ MBA Talks | The Community of MBA Talents
 		</tr>
 		<tr>
 			<td><img alt="Maral Alizadeh profile photo" src="https://media.licdn.com/dms/image/D4E03AQHizEkv9tZ1rQ/profile-displayphoto-shrink_200_200/0/1675873775591?e=1681344000&v=beta&t=yekL8ZUC0GyVE6jhJkehnS_lBvxKO6plZbOlKF-zgwY" style="width:100px" /></td>
-			<td><a href="https://www.linkedin.com/in/navid-mehdizadeh-4734076b/">Maral Alizadeh</a></td>
+			<td><a href="https://www.linkedin.com/in/maral-alizadeh/">Maral Alizadeh</a></td>
 			<td><b>MBA</b></td>
 			<td>Architect.</td>
 		</tr>
